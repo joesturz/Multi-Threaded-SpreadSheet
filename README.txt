@@ -1,0 +1,1 @@
+This is the server for a multi threaded spreadsheet application developed by Charlie Jacobsen, Hutch Jorgensen, Ian Noy, and Joe Sturzenegger. This project was a part of the University of Utah, CS 3505 Curriculum used to develop skills in coding as a team, Code in C++, continuing development on old code and designing solutions.
